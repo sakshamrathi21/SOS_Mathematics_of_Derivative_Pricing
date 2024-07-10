@@ -12,7 +12,7 @@
 \usepackage{tikz}
 \usetikzlibrary{positioning}
 \usetikzlibrary{calc}
-% \usepackage [ a4paper , hmargin =1.2 in , bottom =1.5 in ] { geometry }
+\usepackage [ a4paper , hmargin =1.2 in , bottom =1.5 in ] { geometry }
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,
@@ -1036,6 +1036,17 @@ For $k = 0, 1, \dots, n$, let $S_k = (S_k^1, \dots, S_k^m)$ be the price vector 
     V_k = \phi B_k + \theta_k.S_k
 \end{equation}
 is the value of the portfolio $\Pi_k$ is called the value process or the wealth process.
+
+\subsection{Discounted Finance Market}
+\[B = \{B_k\}, B_k > 0\]
+\[\tilde{S_k} = \frac{S_k}{B_k}\]
+Finance Market: $(1, \tilde{S_k})$
+
+
+\subsection{Self-Financing Trading Strategy}
+A trading strategy is called self-financing trading strategy if 
+\[V(\Pi_k)(t_k) = V(\Pi_{k+1})(t_k)\]
+for every $k = 1, 2, \dots, n-1$
 
 
 
