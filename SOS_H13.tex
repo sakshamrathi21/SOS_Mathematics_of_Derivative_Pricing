@@ -7,12 +7,12 @@
 \usepackage{amssymb}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage{geometry}
+% \usepackage{geometry}
 \usepackage{graphicx}
 \usepackage{tikz}
 \usetikzlibrary{positioning}
 \usetikzlibrary{calc}
-\usepackage [ a4paper , hmargin =1.2 in , bottom =1.5 in ] { geometry }
+% \usepackage [ a4paper , hmargin =1.2 in , bottom =1.5 in ] { geometry }
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,
@@ -1011,6 +1011,34 @@ Let $S = \{s = (s_1, s_2, \dots, s_n) | s_k \texttt{is either U or D}\}$
 
 
 \[B_{s_k} = \{s \in S | \texttt{the first k components of s} = s_k \}\]
+
+
+
+\subsection{Filtration}
+A collection $\{F_t | t \geq 0\}$ of $\sigma$-fields on $S$ is called a filtration if 
+\[F_s \in F_t\]
+for all $0 \leq s \leq t$
+
+
+\subsection{Trading Strategy}
+Our portfolio $\pi = (\phi, \theta)$, $\phi$ is a scalar and $\theta$ is a vector.
+
+
+The stochastic process of portfolios
+\[\{\Pi_k | k = 1, \dots, n\}\]
+where $\Pi_k$ corresponds to the period $[t_{k-1}, t_k]$ is called a trading strategy, if each component of $\Pi_k$ is $F_{k-1}$ is measurable.
+
+
+\subsection{Value Process}
+For $k = 0, 1, \dots, n$, let $S_k = (S_k^1, \dots, S_k^m)$ be the price vector at time $t = t_k$ , where $S_k^j$ denotes the price of the $j^{th}$, risky asset at $t=t_k$ We also denote the risk-free asset price at $t = t_k$ as $B_k$. The stochastic process $\{V_k | k = 1, \dots, n\}$ where
+
+\begin{equation}
+    V_k = \phi B_k + \theta_k.S_k
+\end{equation}
+is the value of the portfolio $\Pi_k$ is called the value process or the wealth process.
+
+
+
 
 
 
