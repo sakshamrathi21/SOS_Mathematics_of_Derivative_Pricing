@@ -71,3 +71,5 @@
 \contentsline {subsection}{\numberline {19.3}Value Process}{22}{subsection.0.19.3}%
 \contentsline {subsection}{\numberline {19.4}Discounted Finance Market}{22}{subsection.0.19.4}%
 \contentsline {subsection}{\numberline {19.5}Self-Financing Trading Strategy}{22}{subsection.0.19.5}%
+\contentsline {subsection}{\numberline {19.6}Replicative Strategy}{22}{subsection.0.19.6}%
+\contentsline {section}{\numberline {20}One-Step Binomial Model}{22}{section.0.20}%

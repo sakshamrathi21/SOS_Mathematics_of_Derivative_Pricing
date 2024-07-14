@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1720610968.74407 "/Users/sakshamrathi/Desktop/SOS_Mathematics_of_Derivative_Pricing/SOS_H13.tex" "SOS_H13.pdf" "SOS_H13" 1720610970.15435 0
-  "/Users/sakshamrathi/Desktop/SOS_Mathematics_of_Derivative_Pricing/SOS_H13.tex" 1720610968.66901 38722 f8064c4c8bdaf1ed233326c8ec960625 ""
+["pdflatex"] 1720611538.48681 "/Users/sakshamrathi/Desktop/SOS_Mathematics_of_Derivative_Pricing/SOS_H13.tex" "SOS_H13.pdf" "SOS_H13" 1720611539.86997 0
+  "/Users/sakshamrathi/Desktop/SOS_Mathematics_of_Derivative_Pricing/SOS_H13.tex" 1720611538.328 39596 9e4ea43579882cbff5ff1ec7cc117bca ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1710106625 2971 def0b6c1f0b107b3b936def894055589 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1710106625 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -179,10 +179,10 @@
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1710106625 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/web2c/texmf.cnf" 1710106625 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221866 9aed0a1b2ac5e8bec4cefaf91f11118a ""
-  "SOS_H13.aux" 1720610970.05168 10170 9ac6f51536817239516430c990cbff9b "pdflatex"
-  "SOS_H13.out" 1720610970.05302 10778 4896080edee798bf15b375a9d2461466 "pdflatex"
-  "SOS_H13.tex" 1720610968.66901 38722 f8064c4c8bdaf1ed233326c8ec960625 ""
-  "SOS_H13.toc" 1720610970.05333 6099 16ae6c5e117f4502dfaa712a55b5a625 "pdflatex"
+  "SOS_H13.aux" 1720611539.76446 10427 c5676d6ac425eeb8815fd4001240d0ca "pdflatex"
+  "SOS_H13.out" 1720611539.76593 11113 29eecd3ee5b61c27ab498c5702595f8b "pdflatex"
+  "SOS_H13.tex" 1720611538.328 39596 9e4ea43579882cbff5ff1ec7cc117bca ""
+  "SOS_H13.toc" 1720611539.76628 6274 d89e02a58413bcd425b097c68738ee4f "pdflatex"
   "Screenshot 2024-06-13 at 8.28.56 AM.png" 1720610251.13041 361505 9c3249a6d544b5e1abadd0b87ccc2d47 ""
   "Screenshot 2024-06-20 at 10.33.23 PM.png" 1720610251.1311 277842 31d9efa30c731b049c849e0ecb4e985a ""
   "Screenshot 2024-06-22 at 9.18.18 AM.png" 1720610251.13217 1051676 a187f62c7e7d35ca3e33a0ea86605cc4 ""

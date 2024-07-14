@@ -1049,6 +1049,33 @@ A trading strategy is called self-financing trading strategy if
 for every $k = 1, 2, \dots, n-1$
 
 
+For a discounted finance market, 
+$\Delta \phi_k + \Delta \theta_k . \tilde{S_k} = 0$
+
+
+\subsection{Replicative Strategy}
+An option is said to be attainable (or reachable) if there exists a self-financing trading strategy, whose value process satisfies:
+\[V_n = H_T\]
+A trading strategy that makes an option attainable is called a replicative strategy (or a headging strategy).
+
+
+In market, if every option is attainable, then the market is said to be complete.
+
+
+
+\section{One-Step Binomial Model}
+The method consists of two steps: 
+\begin{enumerate}
+    \item Constructing a replicative strategy using the :
+    $V_1 = H_T = max(0, S_T-K) \texttt{or} max(0, K-S_T)$ for call and put options respectively
+    \item Matching the initial investment: The amount spent in setting up the replicative portfolio at t=0 should be taken as the option premium.
+\end{enumerate}
+
+
+
+
+
+
 
 
 
