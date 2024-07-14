@@ -91,6 +91,8 @@ INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/rerunfile
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amscls/amsthm.sty
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 INPUT /opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amsfonts/amssymb.sty

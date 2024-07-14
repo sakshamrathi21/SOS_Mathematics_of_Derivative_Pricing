@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1720611538.48681 "/Users/sakshamrathi/Desktop/SOS_Mathematics_of_Derivative_Pricing/SOS_H13.tex" "SOS_H13.pdf" "SOS_H13" 1720611539.86997 0
-  "/Users/sakshamrathi/Desktop/SOS_Mathematics_of_Derivative_Pricing/SOS_H13.tex" 1720611538.328 39596 9e4ea43579882cbff5ff1ec7cc117bca ""
+["pdflatex"] 1720972239.23679 "/Users/sakshamrathi/Desktop/SOS_Mathematics_of_Derivative_Pricing/SOS_H13.tex" "SOS_H13.pdf" "SOS_H13" 1720972240.6682 0
+  "/Users/sakshamrathi/Desktop/SOS_Mathematics_of_Derivative_Pricing/SOS_H13.tex" 1720972239.04613 40367 6dd9ed3400b156334efac926bfa2622b ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1710106625 2971 def0b6c1f0b107b3b936def894055589 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1710106625 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -121,6 +121,7 @@
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex" 1710106625 29239 22e8c7516012992a49873eff0d868fed ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def" 1710106625 6950 8524a062d82b7afdc4a88a57cb377784 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty" 1710106625 7008 f92eaa0a3872ed622bbf538217cd2ab7 ""
+  "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amscls/amsthm.sty" 1710106625 12594 0d51ac3a545aaaa555021326ff22a6cc ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty" 1710106625 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amsfonts/amssymb.sty" 1710106625 13829 94730e64147574077f8ecfea9bb69af4 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amsfonts/umsa.fd" 1710106625 961 6518c6525a34feb5e8250ffa91731cff ""
@@ -179,10 +180,10 @@
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1710106625 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/web2c/texmf.cnf" 1710106625 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/opt/homebrew/Cellar/texlive/20240312/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221866 9aed0a1b2ac5e8bec4cefaf91f11118a ""
-  "SOS_H13.aux" 1720611539.76446 10427 c5676d6ac425eeb8815fd4001240d0ca "pdflatex"
-  "SOS_H13.out" 1720611539.76593 11113 29eecd3ee5b61c27ab498c5702595f8b "pdflatex"
-  "SOS_H13.tex" 1720611538.328 39596 9e4ea43579882cbff5ff1ec7cc117bca ""
-  "SOS_H13.toc" 1720611539.76628 6274 d89e02a58413bcd425b097c68738ee4f "pdflatex"
+  "SOS_H13.aux" 1720972240.55689 10573 05c2a54c6ef8a24d15e80163f2fcb82d "pdflatex"
+  "SOS_H13.out" 1720972240.55839 11398 5ce2e5b67f5f609a5fc73deca27e1382 "pdflatex"
+  "SOS_H13.tex" 1720972239.04613 40367 6dd9ed3400b156334efac926bfa2622b ""
+  "SOS_H13.toc" 1720972240.55873 6379 8504e0c800a571c201520c3b005cda6a "pdflatex"
   "Screenshot 2024-06-13 at 8.28.56 AM.png" 1720610251.13041 361505 9c3249a6d544b5e1abadd0b87ccc2d47 ""
   "Screenshot 2024-06-20 at 10.33.23 PM.png" 1720610251.1311 277842 31d9efa30c731b049c849e0ecb4e985a ""
   "Screenshot 2024-06-22 at 9.18.18 AM.png" 1720610251.13217 1051676 a187f62c7e7d35ca3e33a0ea86605cc4 ""

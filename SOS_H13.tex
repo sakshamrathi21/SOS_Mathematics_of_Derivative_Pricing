@@ -3,12 +3,14 @@
 \usepackage{amsmath}
 \usepackage{fancyhdr}
 \usepackage{hyperref}
+\usepackage{amsthm}
 \usepackage{wrapfig}
 \usepackage{amssymb}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 % \usepackage{geometry}
 \usepackage{graphicx}
+\newtheorem{theorem}{Theorem}
 \usepackage{tikz}
 \usetikzlibrary{positioning}
 \usetikzlibrary{calc}
@@ -1072,8 +1074,33 @@ The method consists of two steps:
 \end{enumerate}
 
 
+\section{n-step Method (Backward Induction Technique)}
+We consider a European option with payoff $H_T$
 
 
+Given the $\mathbb{F}_{n-1}$-measurable random variable $S_{n-1}$, define
+\[
+S_n = 
+\begin{cases}
+    S_{n-1}u & \text{if } s_n = U \\
+    S_{n-1}d & \text{if } s_n = D \\
+\end{cases}
+\]
+
+Then the payoff is given by:
+\[
+H_n = \begin{cases}
+    H_n^u & \text{if } s_n = U \\
+    H_n^d & \text{if } s_n = U \\
+\end{cases}\]
+\[
+H_n^u = \begin{cases}
+    max(0, S_{n-1}u-K) & \text{for call}\\
+    max(0, K-S_{n-1}u) & \text{for put} \\ 
+\end{cases}\]
+
+For a given option, if a replicative strategy exists in a no-arbitrage market, then the price $H_{n-1}$ of the option at $t = t_{n-1}$ is given by
+\[H_{n-1} = V_{n-1}\]
 
 
 
