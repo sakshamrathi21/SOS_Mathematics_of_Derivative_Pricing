@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  14 JUL 2024 21:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  14 JUL 2024 21:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -588,7 +588,7 @@ Overfull \hbox (15.8742pt too wide) in paragraph at lines 104--105
  []
 
 [2] [3]
-<in.jpg, id=398, 946.53625pt x 529.98pt>
+<in.jpg, id=403, 946.53625pt x 529.98pt>
 File: in.jpg Graphic file (type jpg)
 <use in.jpg>
 Package pdftex.def Info: in.jpg  used on input line 126.
@@ -601,7 +601,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 295--298
  []
 
 [7] [8]
-<Screenshot 2024-06-13 at 8.28.56 AM.png, id=463, 560.0925pt x 518.93875pt>
+<Screenshot 2024-06-13 at 8.28.56 AM.png, id=469, 560.0925pt x 518.93875pt>
 File: Screenshot 2024-06-13 at 8.28.56 AM.png Graphic file (type png)
 <use Screenshot 2024-06-13 at 8.28.56 AM.png>
 Package pdftex.def Info: Screenshot 2024-06-13 at 8.28.56 AM.png  used on input line 425.
@@ -616,13 +616,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 467--469
  []
 
 [10 <./Screenshot 2024-06-13 at 8.28.56 AM.png>] [11] [12] [13]
-<Screenshot 2024-06-20 at 10.33.23 PM.png, id=515, 834.11626pt x 243.91125pt>
+<Screenshot 2024-06-20 at 10.33.23 PM.png, id=520, 834.11626pt x 243.91125pt>
 File: Screenshot 2024-06-20 at 10.33.23 PM.png Graphic file (type png)
 <use Screenshot 2024-06-20 at 10.33.23 PM.png>
 Package pdftex.def Info: Screenshot 2024-06-20 at 10.33.23 PM.png  used on input line 664.
 (pdftex.def)             Requested size: 424.06033pt x 124.00601pt.
  [14 <./Screenshot 2024-06-20 at 10.33.23 PM.png>]
-<Screenshot 2024-06-22 at 9.18.18 AM.png, id=522, 1485.55pt x 673.51625pt>
+<Screenshot 2024-06-22 at 9.18.18 AM.png, id=527, 1485.55pt x 673.51625pt>
 File: Screenshot 2024-06-22 at 9.18.18 AM.png Graphic file (type png)
 <use Screenshot 2024-06-22 at 9.18.18 AM.png>
 Package pdftex.def Info: Screenshot 2024-06-22 at 9.18.18 AM.png  used on input line 708.
@@ -639,21 +639,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `SOS_H13.out' has not changed.
-(rerunfilecheck)             Checksum: 5CE2E5B67F5F609A5FC73DECA27E1382;11398.
+(rerunfilecheck)             Checksum: E318E61B2A2A615711F8B448F9361895;11594.
  ) 
 Here is how much of TeX's memory you used:
- 21603 strings out of 474116
- 402056 string characters out of 5733619
+ 21605 strings out of 474116
+ 402082 string characters out of 5733619
  1947187 words of memory out of 5000000
- 43426 multiletter control sequences out of 15000+600000
+ 43427 multiletter control sequences out of 15000+600000
  572776 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,12n,93p,664b,737s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on SOS_H13.pdf (25 pages, 2037390 bytes).
+Output written on SOS_H13.pdf (25 pages, 2039944 bytes).
 PDF statistics:
- 723 PDF objects out of 1000 (max. 8388607)
- 639 compressed objects within 7 object streams
- 176 named destinations out of 1000 (max. 500000)
- 617 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 728 PDF objects out of 1000 (max. 8388607)
+ 644 compressed objects within 7 object streams
+ 177 named destinations out of 1000 (max. 500000)
+ 625 words of extra memory for PDF output out of 10000 (max. 10000000)
 

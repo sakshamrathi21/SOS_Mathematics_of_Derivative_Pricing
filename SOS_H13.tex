@@ -1103,8 +1103,30 @@ For a given option, if a replicative strategy exists in a no-arbitrage market, t
 \[H_{n-1} = V_{n-1}\]
 
 
+Let the option period [0,T] be partitioned into $n$ subinterval. The price of an attainable European option in a no-arbitrage market is uniquely given by
+\[H_0 = \frac{1}{(1+r)^n} \sum_{j=0}^n \binom{n}{k}p^{*j}(1-p^*)^{n-j}H_{n,j}\]
 
 
+
+\section{Pricing for American Options}
+At every time level, the holder has two possibilities
+\begin{itemize}
+    \item the holder chooses to exercise the option, in which case, the holder obtains the payoff $H_k(S_k)$
+    \item the holder choses to hold the option at least till the next time level $t=t_{k+1}$
+\end{itemize}
+
+
+\[V_k = E^*(\frac{H_{k+1}^a}{1+r}\vert F_k)\]
+
+\[
+H_k^a = \begin{cases}
+    H_n & \text{for }k = n\\
+    max(H_k, V_k) & \text{for} k = 0, 1, \dots, n-1
+\end{cases}\]
+
+
+Define the minimum exercise time as 
+$T_{min} = min\{t_k \in \Pi_n | H_k \geq V_k\}$
 
 
 
