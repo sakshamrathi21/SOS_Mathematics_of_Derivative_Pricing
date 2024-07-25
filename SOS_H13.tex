@@ -54,6 +54,10 @@
 
 \tableofcontents
 
+\newpage
+\mbox{}
+\newpage
+
 % \clearpage
 \section*{Plan of Action}
 \addcontentsline{toc}{section}{Plan of Action}
@@ -1129,7 +1133,51 @@ Define the minimum exercise time as
 $T_{min} = min\{t_k \in \Pi_n | H_k \geq V_k\}$
 
 
+\section{Exotic Options}
+An Asian option is a European contingent claim whose payoff depends on the average price of the underlying asset. We have two types of Asiam options, namely:
+\begin{enumerate}
+    \item Fixed strike Asian Options: These are the options with payoffs given by:
+    \[H_T = \begin{cases}
+        max(0, A(S)-K) & \text{for call}\\
+        max(0, K-A(S)) & \text{for put}\\
+    \end{cases}\]
+    where A(S) is an average price of the underlying asset and K is the strike price.
+    \item Floating strike Asian options: These are the options with payoffs given by:
+    \[H_T = \begin{cases}
+        max(0, S_T - A(S)) & \text{for call}\\
+        max(0, A(S) - S_T) & \text{for put}\\
+    \end{cases}\]
+    where A(S) is an average price which is taken as the strike price of the option as usual, $S_T$ denotes the price of the underlying asset at the expiration time.
+\end{enumerate}
 
+
+There are different ways to define the average function A. Some of them are listed below:
+\begin{enumerate}
+    \item Discrete arithmetic average: A(S) = $\frac{1}{n}\sum_{k=1}^nS_k$
+    \item Continuous arithmetic average: A(S) = $\frac{1}{T}\int_{0}^TS(t)dt$
+    \item Discrete geometric average: A(S) = $(\prod_{k=1}^nS_k)^{\frac{1}{n}}$
+    \item Continuous arithmetic average: A(S) = $exp(\frac{1}{T}\int_{0}^TlnS(t)dt)$
+\end{enumerate}
+
+
+
+\section{Discrete-time Martingales}
+Let $X$ be a random variable defined on a probability space $(S, F, \mathbb{P})$ with $E(|X|) < \infty$
+
+
+Let $F_1 \subseteq F$ be a $\sigma$-field.
+Conditional Expectation of $X$ given $F_1$ is a random variable, say $Y$.
+\[E(Y\mathbb{1}_A = E(X\mathbb{1}_A)) \forall A \in F_1\] 
+
+
+
+
+\newpage
+\mbox{}
+\newpage
+
+
+\clearpage
 \clearpage
 \section*{Bibliography}
 \begin{enumerate}
